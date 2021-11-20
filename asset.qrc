@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>image/folder.svg</file>
+        <file>image/open-folder.svg</file>
+        <file>image/right-arrow1.png</file>
+        <file>image/right-arrow2.png</file>
+    </qresource>
+</RCC>
